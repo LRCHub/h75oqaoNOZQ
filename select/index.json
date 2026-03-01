@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ミツボシ☆☆★",
+  "base_artist": "本田未央 (CV: 原 紗友里)",
+  "createdAt": "2026-03-01T10:34:38.482783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央 (CV: 原 紗友里)",
+      "has_synced": true,
+      "path": "select/01_ミツボシ☆☆★_本田未央_(CV__原_紗友里).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★ [ORT]",
+      "artist": "本田未央(CV:原紗友里)",
+      "has_synced": false,
+      "path": "select/02_ミツボシ☆☆★_[ORT]_本田未央(CV_原紗友里).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★ (オリジナル・カラオケ)",
+      "artist": "本田未央 (原紗友里)",
+      "has_synced": false,
+      "path": "select/03_ミツボシ☆☆★_(オリジナル・カラオケ)_本田未央_(原紗友里).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央 (原紗友里)",
+      "has_synced": false,
+      "path": "select/04_ミツボシ☆☆★_本田未央_(原紗友里).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★ (オリジナル・カラオケ)",
+      "artist": "本田未央 (CV原紗友里)",
+      "has_synced": false,
+      "path": "select/05_ミツボシ☆☆★_(オリジナル・カラオケ)_本田未央_(CV原紗友里).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央 (CV: 原紗友里)",
+      "has_synced": false,
+      "path": "select/06_ミツボシ☆☆★_本田未央_(CV__原紗友里).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央 (CV原紗友里)",
+      "has_synced": false,
+      "path": "select/07_ミツボシ☆☆★_本田未央_(CV原紗友里).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "原紗友里",
+      "has_synced": false,
+      "path": "select/08_ミツボシ☆☆★_原紗友里.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央(CV.原紗友里)",
+      "has_synced": false,
+      "path": "select/09_ミツボシ☆☆★_本田未央(CV.原紗友里).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央（CV：原紗友里）",
+      "has_synced": false,
+      "path": "select/10_ミツボシ☆☆★_本田未央(CV_原紗友里).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央",
+      "has_synced": true,
+      "path": "select/11_ミツボシ☆☆★_本田未央.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミツボシ☆☆★ (オリジナル・カラオケ)",
+      "artist": "本田未央",
+      "has_synced": false,
+      "path": "select/12_ミツボシ☆☆★_(オリジナル・カラオケ)_本田未央.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミツボシ☆☆★",
+      "artist": "本田未央(CV:原紗友里)",
+      "has_synced": false,
+      "path": "select/pl_01_ミツボシ☆☆★_本田未央(CV_原紗友里).txt"
+    }
+  ]
+}
